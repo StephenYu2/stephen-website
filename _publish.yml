@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 50bce545-d044-4da2-b2d0-055a92a6e210
+      url: 'https://stephenyu2.netlify.app'
