@@ -17,10 +17,10 @@ about:
       url: "mailto:spyu24@g.ucla.edu"
     - icon: file-pdf
       text: Resume
-      url: "/docs/resume/StephenYuResumeC"
+      url: "/docs/resume/StephenYuResumeC.pdf"
 image: StephenYuProfessionalPhoto.jpg
 ---
 
 ## My Journey
 
-At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning. My experience at UCLA's Tsiang Lab and internships at Northrop Grumman and Electrum Homes, developed my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering.
+At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning. My experience at UCLA's Tsiang Lab and internships at Northrop Grumman and Electrum Homes, developed my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering. 

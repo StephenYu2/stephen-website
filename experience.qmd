@@ -58,3 +58,5 @@ title: "Experience"
 
 - Data mined information from web to expedite algorithm inputs which increased team productivity by 60%.
 - Analyzed 1000+ residences to gain experience in resale, rentals, renovation, financing, contracts, wholetail, and property tax.
+
+[Resume](/docs/resume/StephenYuResumeC.pdf "Resume") 
