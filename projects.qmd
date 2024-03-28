@@ -1,5 +1,42 @@
 ---
+toc: false
 title: "Projects"
 ---
 
-Put projects here
+## K-Cluster Gaussian Hotspots (KCGH)
+**Python: scikit-learn, scipy, numpy**  
+*Jan 2024 – Present*
+
+- Devised a novel supervised learning algorithm using clusters and Gaussian hotspots within each class.
+- Compared accuracy to K-Nearest Neighbor on real-world datasets resulting in an average boost of 3.5%.
+- Advantages over KNN include increased interpretability, reduced prediction cost of O(K), and a probabilistic insight.
+
+## Yelp Sentiment Mining
+**R: Tidyverse, car, mclust, class, MASS, pROC**  
+*Sep 2023 – Dec 2023*
+
+- Preprocessed 50,000+ IMDB reviews using K-Means Data Clustering and measured inertia to find optimal hyperparameter.
+- Applied Logistic Regression, KNN, LDA, QDA, and Random Forest with K-Fold CV receiving a maximum accuracy of 88%.
+
+## Smart Sprite
+**Python: pygame, numpy, pandas**  
+*Aug 2023 – Sep 2023*
+
+- Constructed an unsupervised reinforcement learning algorithm on an agent to train and progress through a 2D platformer.
+- Addressed exploration vs exploitation dilemma with ε-greedy, upper confidence bound (UCB), and optimistic initialization methods.
+- Agent learned to complete levels with enemies and obstacles 20% faster than human players.
+
+## Synthetic Data Analysis and Optimization
+**R**  
+*May 2023 - Jun 2023*  
+
+- Used stochastic gradient descent to iterate and converge on true beta values of a data set containing 20 predictors.
+- Implemented and compared constant step, backtracking line search, and Polyak’s Heavy Ball Momentum for accuracy and speed.
+
+## Cyborgs
+**C++**  
+*May 2022 - Jun 2022*  
+
+- Created an action arcade video game in which the player needs to collect all apples in a given map before being attacked by cyborgs.
+- Utilized pointers and random number generators to dynamically store enemies and objects, creating cyborg AI.
+

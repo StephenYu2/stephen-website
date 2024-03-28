@@ -1,23 +1,128 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Journey",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning, which laid the foundation for my analytical expertise. My hands-on experience at UCLA’s Tsiang Lab and through impactful internships at Northrop Grumman and Electrum Homes, sharpened my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering."
+    "text": "B.S. Statistics and Data Science, Minor in Data Science Engineering | GPA: 3.88/4.0\nSep 2020 – Jun 2024\n\nCoursework: Machine Learning, Computer Science, Python, R, Optimization, Models and Data Mining, Mathematical Statistics.\nPlanned Coursework: Data Mining, Data Science, Algorithms.\nAwards/Honors: Dean’s List\nOrganizations: Chess Club, Intramural Sports"
+  },
+  {
+    "objectID": "education.html#university-of-california-los-angeles",
+    "href": "education.html#university-of-california-los-angeles",
+    "title": "Education",
+    "section": "",
+    "text": "B.S. Statistics and Data Science, Minor in Data Science Engineering | GPA: 3.88/4.0\nSep 2020 – Jun 2024\n\nCoursework: Machine Learning, Computer Science, Python, R, Optimization, Models and Data Mining, Mathematical Statistics.\nPlanned Coursework: Data Mining, Data Science, Algorithms.\nAwards/Honors: Dean’s List\nOrganizations: Chess Club, Intramural Sports"
+  },
+  {
+    "objectID": "education.html#chaminade-college-preparetory",
+    "href": "education.html#chaminade-college-preparetory",
+    "title": "Education",
+    "section": "Chaminade College Preparetory",
+    "text": "Chaminade College Preparetory\nHigh School Diploma\nAug 2016 – May 2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stephen Yu",
+    "section": "",
+    "text": "At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning. My experience at UCLA’s Tsiang Lab and internships at Northrop Grumman and Electrum Homes, developed my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering."
+  },
+  {
+    "objectID": "index.html#my-journey",
+    "href": "index.html#my-journey",
+    "title": "Stephen Yu",
+    "section": "",
+    "text": "At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning. My experience at UCLA’s Tsiang Lab and internships at Northrop Grumman and Electrum Homes, developed my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Put projects here"
+    "text": "Python: scikit-learn, scipy, numpy\nJan 2024 – Present\n\nDevised a novel supervised learning algorithm using clusters and Gaussian hotspots within each class.\nCompared accuracy to K-Nearest Neighbor on real-world datasets resulting in an average boost of 3.5%.\nAdvantages over KNN include increased interpretability, reduced prediction cost of O(K), and a probabilistic insight."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
+    "objectID": "projects.html#k-cluster-gaussian-hotspots-kcgh",
+    "href": "projects.html#k-cluster-gaussian-hotspots-kcgh",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Python: scikit-learn, scipy, numpy\nJan 2024 – Present\n\nDevised a novel supervised learning algorithm using clusters and Gaussian hotspots within each class.\nCompared accuracy to K-Nearest Neighbor on real-world datasets resulting in an average boost of 3.5%.\nAdvantages over KNN include increased interpretability, reduced prediction cost of O(K), and a probabilistic insight."
+  },
+  {
+    "objectID": "projects.html#yelp-sentiment-mining",
+    "href": "projects.html#yelp-sentiment-mining",
+    "title": "Projects",
+    "section": "Yelp Sentiment Mining",
+    "text": "Yelp Sentiment Mining\nR: Tidyverse, car, mclust, class, MASS, pROC\nSep 2023 – Dec 2023\n\nPreprocessed 50,000+ IMDB reviews using K-Means Data Clustering and measured inertia to find optimal hyperparameter.\nApplied Logistic Regression, KNN, LDA, QDA, and Random Forest with K-Fold CV receiving a maximum accuracy of 88%."
+  },
+  {
+    "objectID": "projects.html#smart-sprite",
+    "href": "projects.html#smart-sprite",
+    "title": "Projects",
+    "section": "Smart Sprite",
+    "text": "Smart Sprite\nPython: pygame, numpy, pandas\nAug 2023 – Sep 2023\n\nConstructed an unsupervised reinforcement learning algorithm on an agent to train and progress through a 2D platformer.\nAddressed exploration vs exploitation dilemma with ε-greedy, upper confidence bound (UCB), and optimistic initialization methods.\nAgent learned to complete levels with enemies and obstacles 20% faster than human players."
+  },
+  {
+    "objectID": "projects.html#synthetic-data-analysis-and-optimization",
+    "href": "projects.html#synthetic-data-analysis-and-optimization",
+    "title": "Projects",
+    "section": "Synthetic Data Analysis and Optimization",
+    "text": "Synthetic Data Analysis and Optimization\nR\nMay 2023 - Jun 2023\n\nUsed stochastic gradient descent to iterate and converge on true beta values of a data set containing 20 predictors.\nImplemented and compared constant step, backtracking line search, and Polyak’s Heavy Ball Momentum for accuracy and speed."
+  },
+  {
+    "objectID": "projects.html#cyborgs",
+    "href": "projects.html#cyborgs",
+    "title": "Projects",
+    "section": "Cyborgs",
+    "text": "Cyborgs\nC++\nMay 2022 - Jun 2022\n\nCreated an action arcade video game in which the player needs to collect all apples in a given map before being attacked by cyborgs.\nUtilized pointers and random number generators to dynamically store enemies and objects, creating cyborg AI."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Co-Founder\nFeb 2023 – Dec 2023\n\nCo-Founded a tutoring and training service garnering a 98% satisfaction rating from clientele and parents.\nOversaw end-to-end website development using PHP and JavaScript to achieve a mobile-friendly platform.\nTutored 15+ students, leading them to achieve a 90 point improvement on SAT scores and 10% improvement on test scores.\nAwards/Honors: Guidance"
+  },
+  {
+    "objectID": "experience.html#thrive-academy---los-angeles-ca",
+    "href": "experience.html#thrive-academy---los-angeles-ca",
+    "title": "Experience",
+    "section": "",
+    "text": "Co-Founder\nFeb 2023 – Dec 2023\n\nCo-Founded a tutoring and training service garnering a 98% satisfaction rating from clientele and parents.\nOversaw end-to-end website development using PHP and JavaScript to achieve a mobile-friendly platform.\nTutored 15+ students, leading them to achieve a 90 point improvement on SAT scores and 10% improvement on test scores.\nAwards/Honors: Guidance"
+  },
+  {
+    "objectID": "experience.html#ucla-tsiang-lab---los-angeles-ca",
+    "href": "experience.html#ucla-tsiang-lab---los-angeles-ca",
+    "title": "Experience",
+    "section": "UCLA Tsiang Lab - Los Angeles, CA",
+    "text": "UCLA Tsiang Lab - Los Angeles, CA\nUndergraduate Researcher\nSep 2023 – Dec 2023\n\nScripted an algorithm in Python (Numpy, Pandas, BS4) to scrape 25 predictors for 4577 observations from assorted websites.\nImputed data using MICE and leveraged SMOTE to create 3000+ synthetic data points for underrepresented class.\nUtilized dimension reduction techniques such as Lasso Regression and Stepwise BIC to reduce to 9 significant predictors.\nImplemented supervised learning models in R (mclust, class, MASS) resulting in an average F1-score of 83%."
+  },
+  {
+    "objectID": "experience.html#northrop-grumman---woodland-hills-ca",
+    "href": "experience.html#northrop-grumman---woodland-hills-ca",
+    "title": "Experience",
+    "section": "Northrop Grumman - Woodland Hills, CA",
+    "text": "Northrop Grumman - Woodland Hills, CA\nSoftware Engineer Intern\nJun 2023 – Aug 2023\n\nPerformed MATLAB testing on eight Simulink hyper models for hybrid navigation integration.\nCreated STCs for 2000+ independent signal inputs to evaluate system performance under all possible conditions.\nProvided valuable insight and guidance for improved theory and optimization leading to 100% accuracy and 100% coverage.\nEffectively updated JIRA to communicate task progress to my SCRUM team for project roadmap.\nDeveloped a byte unpack algorithm for SCC buses, meeting IICD standards for IMU to System Processor bit stream.\nAwards/Honors: Outstanding Intern, Team Project Showcase\nOrganizations: Machine Learning Journal Club, MathWorks Lunch and Learn"
+  },
+  {
+    "objectID": "experience.html#northrop-grumman---woodland-hills-ca-1",
+    "href": "experience.html#northrop-grumman---woodland-hills-ca-1",
+    "title": "Experience",
+    "section": "Northrop Grumman - Woodland Hills, CA",
+    "text": "Northrop Grumman - Woodland Hills, CA\nSystem Engineer Intern\nJun 2022 – Aug 2022\n\nDocumented 100+ risks and opportunities using proprietary risk-management software (TETRA).\nCo-Managed risk registry data which garnered approximately $10,000,000 worth of project funding from customer.\nArranged 47 interviews with program stakeholders and experts to revise schedule, cost, and risk probability.\nOptimized project roadmap by reordering epics that block mandatory work to pull project end date up 8 months.\nAwards/Honors: Excellent Intern\nOrganizations: MathWorks Lunch and Learn"
+  },
+  {
+    "objectID": "experience.html#project-kairos---los-angeles-california",
+    "href": "experience.html#project-kairos---los-angeles-california",
+    "title": "Experience",
+    "section": "Project Kairos - Los Angeles, California",
+    "text": "Project Kairos - Los Angeles, California\nMember\nMar 2021 - Dec 2021\n\nAccrued over $20,000 buying hundreds of high demand tech products to sell at a profit.\nWorked with group members by sharing vital information and coordinating pickups to help others reach their financial goals.\nMastered vendor scheduling, automated checkout software, proxies, accounting, in-person transactions, and negotiation."
+  },
+  {
+    "objectID": "experience.html#electrum-homes---irving-tx",
+    "href": "experience.html#electrum-homes---irving-tx",
+    "title": "Experience",
+    "section": "Electrum Homes - Irving, TX",
+    "text": "Electrum Homes - Irving, TX\nData Analyst Intern\nMay 2021 – Sep 2021\n\nData mined information from web to expedite algorithm inputs which increased team productivity by 60%.\nAnalyzed 1000+ residences to gain experience in resale, rentals, renovation, financing, contracts, wholetail, and property tax."
   }
 ]

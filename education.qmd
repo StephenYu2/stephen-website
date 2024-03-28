@@ -1,0 +1,17 @@
+---
+toc: false
+title: "Education"
+---
+
+## University of California, Los Angeles
+**B.S. Statistics and Data Science, Minor in Data Science Engineering** | GPA: 3.88/4.0  
+*Sep 2020 – Jun 2024*
+
+- **Coursework:** Machine Learning, Computer Science, Python, R, Optimization, Models and Data Mining, Mathematical Statistics.
+- **Planned Coursework:** Data Mining, Data Science, Algorithms.
+- **Awards/Honors:** Dean's List
+- **Organizations:** Chess Club, Intramural Sports
+
+## Chaminade College Preparetory
+**High School Diploma**   
+*Aug 2016 – May 2020*

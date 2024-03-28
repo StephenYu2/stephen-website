@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -93,13 +93,36 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">Journey</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./experience.html"> 
+<span class="menu-text">Experience</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./education.html"> 
+<span class="menu-text">Education</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bi-github" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-bi-github">    
+        <li>
+    <a class="dropdown-item" href="https://github.com/stephenyu2/stephen-website">
+ <span class="dropdown-text">Website Source Code</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/stephenyu2">
+ <span class="dropdown-text">Github Profile</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -111,9 +134,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -136,9 +157,55 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Put projects here</p>
+<section id="k-cluster-gaussian-hotspots-kcgh" class="level2">
+<h2 class="anchored" data-anchor-id="k-cluster-gaussian-hotspots-kcgh">K-Cluster Gaussian Hotspots (KCGH)</h2>
+<p><strong>Python: scikit-learn, scipy, numpy</strong><br>
+<em>Jan 2024 – Present</em></p>
+<ul>
+<li>Devised a novel supervised learning algorithm using clusters and Gaussian hotspots within each class.</li>
+<li>Compared accuracy to K-Nearest Neighbor on real-world datasets resulting in an average boost of 3.5%.</li>
+<li>Advantages over KNN include increased interpretability, reduced prediction cost of O(K), and a probabilistic insight.</li>
+</ul>
+</section>
+<section id="yelp-sentiment-mining" class="level2">
+<h2 class="anchored" data-anchor-id="yelp-sentiment-mining">Yelp Sentiment Mining</h2>
+<p><strong>R: Tidyverse, car, mclust, class, MASS, pROC</strong><br>
+<em>Sep 2023 – Dec 2023</em></p>
+<ul>
+<li>Preprocessed 50,000+ IMDB reviews using K-Means Data Clustering and measured inertia to find optimal hyperparameter.</li>
+<li>Applied Logistic Regression, KNN, LDA, QDA, and Random Forest with K-Fold CV receiving a maximum accuracy of 88%.</li>
+</ul>
+</section>
+<section id="smart-sprite" class="level2">
+<h2 class="anchored" data-anchor-id="smart-sprite">Smart Sprite</h2>
+<p><strong>Python: pygame, numpy, pandas</strong><br>
+<em>Aug 2023 – Sep 2023</em></p>
+<ul>
+<li>Constructed an unsupervised reinforcement learning algorithm on an agent to train and progress through a 2D platformer.</li>
+<li>Addressed exploration vs exploitation dilemma with ε-greedy, upper confidence bound (UCB), and optimistic initialization methods.</li>
+<li>Agent learned to complete levels with enemies and obstacles 20% faster than human players.</li>
+</ul>
+</section>
+<section id="synthetic-data-analysis-and-optimization" class="level2">
+<h2 class="anchored" data-anchor-id="synthetic-data-analysis-and-optimization">Synthetic Data Analysis and Optimization</h2>
+<p><strong>R</strong><br>
+<em>May 2023 - Jun 2023</em></p>
+<ul>
+<li>Used stochastic gradient descent to iterate and converge on true beta values of a data set containing 20 predictors.</li>
+<li>Implemented and compared constant step, backtracking line search, and Polyak’s Heavy Ball Momentum for accuracy and speed.</li>
+</ul>
+</section>
+<section id="cyborgs" class="level2">
+<h2 class="anchored" data-anchor-id="cyborgs">Cyborgs</h2>
+<p><strong>C++</strong><br>
+<em>May 2022 - Jun 2022</em></p>
+<ul>
+<li>Created an action arcade video game in which the player needs to collect all apples in a given map before being attacked by cyborgs.</li>
+<li>Utilized pointers and random number generators to dynamically store enemies and objects, creating cyborg AI.</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -551,6 +618,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>© 2024, Stephen Yu</p>
+</div>
+  </div>
+</footer>
 
 
 

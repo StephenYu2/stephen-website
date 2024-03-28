@@ -7,10 +7,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Journey
       - href: projects.qmd
         text: Projects
+      - href: experience.qmd
+        text: Experience
+      - href: education.qmd
+        text: Education
+    right: 
+      - icon: github
+        menu: 
+          - text: Website Source Code
+            url: https://github.com/stephenyu2/stephen-website
+          - text: Github Profile
+            url: https://github.com/stephenyu2
+  page-footer:
+    right: "&copy; 2024, Stephen Yu"
 
 format:
   html:

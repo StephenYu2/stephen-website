@@ -1,0 +1,60 @@
+---
+toc: false
+title: "Experience"
+---
+
+## Thrive Academy - Los Angeles, CA
+**Co-Founder**  
+*Feb 2023 – Dec 2023*
+
+- Co-Founded a tutoring and training service garnering a 98% satisfaction rating from clientele and parents.
+- Oversaw end-to-end website development using PHP and JavaScript to achieve a mobile-friendly platform.
+- Tutored 15+ students, leading them to achieve a 90 point improvement on SAT scores and 10% improvement on test scores.
+- **Awards/Honors:** Guidance
+
+## UCLA Tsiang Lab - Los Angeles, CA
+**Undergraduate Researcher**  
+*Sep 2023 – Dec 2023*
+
+- Scripted an algorithm in Python (Numpy, Pandas, BS4) to scrape 25 predictors for 4577 observations from assorted websites.
+- Imputed data using MICE and leveraged SMOTE to create 3000+ synthetic data points for underrepresented class.
+- Utilized dimension reduction techniques such as Lasso Regression and Stepwise BIC to reduce to 9 significant predictors.
+- Implemented supervised learning models in R (mclust, class, MASS) resulting in an average F1-score of 83%.
+
+## Northrop Grumman - Woodland Hills, CA
+**Software Engineer Intern**  
+*Jun 2023 – Aug 2023*
+
+- Performed MATLAB testing on eight Simulink hyper models for hybrid navigation integration.
+- Created STCs for 2000+ independent signal inputs to evaluate system performance under all possible conditions.
+- Provided valuable insight and guidance for improved theory and optimization leading to 100% accuracy and 100% coverage.
+- Effectively updated JIRA to communicate task progress to my SCRUM team for project roadmap.
+- Developed a byte unpack algorithm for SCC buses, meeting IICD standards for IMU to System Processor bit stream.
+- **Awards/Honors:** Outstanding Intern, Team Project Showcase
+- **Organizations:** Machine Learning Journal Club, MathWorks Lunch and Learn
+
+## Northrop Grumman - Woodland Hills, CA
+**System Engineer Intern**  
+*Jun 2022 – Aug 2022*
+
+- Documented 100+ risks and opportunities using proprietary risk-management software (TETRA).
+- Co-Managed risk registry data which garnered approximately $10,000,000 worth of project funding from customer.
+- Arranged 47 interviews with program stakeholders and experts to revise schedule, cost, and risk probability.
+- Optimized project roadmap by reordering epics that block mandatory work to pull project end date up 8 months.
+- **Awards/Honors:** Excellent Intern
+- **Organizations:** MathWorks Lunch and Learn
+
+## Project Kairos - Los Angeles, California
+**Member**  
+*Mar 2021 - Dec 2021* 
+
+- Accrued over $20,000 buying hundreds of high demand tech products to sell at a profit.
+- Worked with group members by sharing vital information and coordinating pickups to help others reach their financial goals.
+- Mastered vendor scheduling, automated checkout software, proxies, accounting, in-person transactions, and negotiation.
+
+## Electrum Homes - Irving, TX
+**Data Analyst Intern**  
+*May 2021 – Sep 2021*
+
+- Data mined information from web to expedite algorithm inputs which increased team productivity by 60%.
+- Analyzed 1000+ residences to gain experience in resale, rentals, renovation, financing, contracts, wholetail, and property tax.

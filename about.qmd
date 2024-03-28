@@ -1,5 +1,0 @@
----
-title: "Journey"
----
-
-At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning, which laid the foundation for my analytical expertise. My hands-on experience at UCLA's Tsiang Lab and through impactful internships at Northrop Grumman and Electrum Homes, sharpened my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering.

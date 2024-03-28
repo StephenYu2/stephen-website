@@ -1,7 +1,26 @@
 ---
-title: "Welcome!"
+toc: false
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/stephenyu2/"
+    - icon: github
+      text: GitHub
+      url: "https://github.com/stephenyu2"
+    - icon: briefcase
+      text: Handshake
+      url: "https://app.joinhandshake.com/stu/users/24246775"
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:spyu24@g.ucla.edu"
+    - icon: file-pdf
+      text: Resume
+      url: "/docs/resume/StephenYuResumeC"
+image: StephenYuProfessionalPhoto.jpg
 ---
 
-This is a Quarto website.
+## My Journey
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+At UCLA, I pursued a rigorous curriculum in Statistics and Data Science, emphasizing Machine Learning. My experience at UCLA's Tsiang Lab and internships at Northrop Grumman and Electrum Homes, developed my skills in data analysis, software engineering, and applying Machine Learning models to real-world challenges. This blend of academic rigor and practical experience has fueled my passion for leveraging Machine Learning to solve complex problems and drive innovation in data science and engineering.
